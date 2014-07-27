@@ -23,8 +23,8 @@ The script requires the following libraries:
 
 ##Data
 
-The source data and data transformations are described in the Codebook
+The source data and data transformations are described in the Codebook.
 
 ##Output
 
-The tidy data file "tidy_data.txt" will be created in the working directory
+The tidy data file "tidy_data.txt" will be created in the working directory.
