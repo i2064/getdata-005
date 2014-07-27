@@ -1,5 +1,8 @@
 README
 ---
+##Overview
+
+This repo contains the code and instructions for the course project of the Coursera Getting and Cleaning Data module of the Data Scient specialization.
 
 ##Requirements
 
