@@ -25,6 +25,17 @@ The script requires the following libraries:
 
 The source data and data transformations are described in the Codebook.
 
+In summary, the script:
+
+* Combines training and test data sets
+* Extracts specific columns of mean and standard deviation data
+* Joins measurement data to subject and activity
+* Applies meaningful labels to columns
+* Summarize the data to show the average mean and standard deviation measurements organized by subject and activity
+* Output the summarized tidy data set
+
 ##Output
 
 The tidy data file "tidy_data.txt" will be created in the working directory.
+
+
